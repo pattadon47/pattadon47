@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Keng</h1>
+<h1 align="center">Hi 👋 Pattadon Arthan</h1>
 <h3 align="center">Computer Science Student | Future Software Developer</h3>
 
 <p align="center">
@@ -51,12 +51,11 @@ I am currently looking for a **Web Developer Internship** where I can improve my
 
 ## 🛠 Skills
 
-| Skill | Level |
-|------|------|
-HTML | ⭐⭐⭐⭐ |
-CSS | ⭐⭐⭐ |
-JavaScript | ⭐⭐⭐ |
-MySQL | ⭐⭐⭐ |
+| Skill |
+HTML 
+CSS 
+JavaScript 
+MySQL 
 
 ---
 
