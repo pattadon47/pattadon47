@@ -22,7 +22,7 @@ I am currently looking for a **Web Developer Internship** where I can improve my
 
 ---
 
-## 🚀 SKILLS
+## 🚀 SKILLS PROJECT
 
 ### 🛒 Web develop 
 - Developed an **E-commerce system with membership features**
