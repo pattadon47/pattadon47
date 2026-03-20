@@ -16,7 +16,7 @@ I am passionate about **software development, web technologies, and UX/UI**.
 
 I am currently looking for a **Web Developer Internship** where I can improve my skills and gain real-world experience.
 
-✔ Enthusiastic  
+✔ Active
 ✔ Quick learner  
 ✔ Ready to learn new technologies
 
