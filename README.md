@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 I am a **Computer Science student at Kasetsart University**.  
-I am passionate about **software development, web technologies, and mobile applications**.
+I am passionate about **software development, web technologies, and UX/UI**.
 
 I am currently looking for a **Web Developer Internship** where I can improve my skills and gain real-world experience.
 
@@ -22,9 +22,9 @@ I am currently looking for a **Web Developer Internship** where I can improve my
 
 ---
 
-## 🚀 Projects
+## 🚀 SKILLS
 
-### 🛒 E-Commerce Web Application (2026)
+### 🛒 Web develop 
 - Developed an **E-commerce system with membership features**
 - Backend built with **Node.js and Express.js**
 - Database: **PostgreSQL**
@@ -56,6 +56,7 @@ HTML
 CSS 
 JavaScript 
 MySQL 
+Desigh
 
 ---
 
@@ -91,7 +92,7 @@ GPA: **3.8**
 ## 📫 Contact Me
 
 📞 086-424-4925  
-📧 kzeragamer@gmail.com  
+📧 kzergamer@gmail.com  
 📍 Bangkok, Thailand
 
 ---
