@@ -41,6 +41,7 @@ Video editing <br>
 - Figma (UX/UI Design)
 - Microsoft Exel
 - Postman Api
+- Antigrivity
 - Premiere Pro
 
 ---
