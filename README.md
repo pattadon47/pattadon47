@@ -30,7 +30,7 @@ Test case / Test Scenario
 HTML <br>
 CSS <br>
 JavaScript <br>
-Desigh <br>
+Design <br>
 Video editing <br>
 
 ---
