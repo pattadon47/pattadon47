@@ -36,7 +36,6 @@ Video editing <br>
 ---
 
 ## 🧰 Tools
--
 - Git & GitHub
 - Visual Studio Code
 - Figma (UX/UI Design)
