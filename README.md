@@ -27,11 +27,11 @@ I am currently looking for a **Software Tester** where I can improve my skills a
 | Skill |
 Manual Testing / Automate Testing
 Test case / Test Scenario
-HTML 
-CSS 
-JavaScript 
-Desigh
-Video editing
+HTML <br>
+CSS <br>
+JavaScript <br>
+Desigh <br>
+Video editing <br>
 
 ---
 
