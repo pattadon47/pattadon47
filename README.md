@@ -31,6 +31,7 @@ HTML
 CSS 
 JavaScript 
 Desigh
+Video editing
 
 ---
 
@@ -41,6 +42,7 @@ Desigh
 - Figma (UX/UI Design)
 - Microsoft Exel
 - Postman Api
+- premiere pro
 
 ---
 
