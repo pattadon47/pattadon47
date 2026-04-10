@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 I am a **Computer Science student at Kasetsart University**.  
-I am passionate about **software Tester, and UX/UI**.
+I am passionate about **software Tester,IT support, and UX/UI**.
 
 I am currently looking for a **Software Tester** where I can improve my skills and gain real-world experience.
 
