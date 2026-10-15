@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Pattadon Arthan</h1>
-<h3 align="center">Computer Science Student | Future Software Tester</h3>
+<h3 align="center">Computer Science Student | Future Cyber Security</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-blue">
